@@ -1,4 +1,4 @@
-FROM 5hojib/shojib:latest
+FROM pikachuproject/pikatest1:beta
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
